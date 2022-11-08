@@ -240,7 +240,7 @@
     "is-wsl": "2.2.0",
     "json5": "2.2.0",
     "jsonwebtoken": "8.5.1",
-    "loader-utils": "2.0.0",
+    "loader-utils": "2.0.3",
     "lodash.curry": "4.1.1",
     "lodash.frompairs": "4.0.1",
     "lru-cache": "5.1.1",
